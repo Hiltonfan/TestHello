@@ -10,5 +10,6 @@
 
 int main(int argc, const char * argv[])
 {
+    printf("Hello world");
     return NSApplicationMain(argc, argv);
 }
